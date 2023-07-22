@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - IJKMediaFramework (0.1.0)
+  - IJKMediaFramework (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  IJKMediaFramework: 8d9ae001f14dc41983becdbc37c85cc5ac40bad2
+  IJKMediaFramework: a680c3fc0ca4f5eaa575156bb3b9e1b6e6bbc565
 
 PODFILE CHECKSUM: 1275bfa4a2f4f0610be093ca183f00d58ef51cea
 
