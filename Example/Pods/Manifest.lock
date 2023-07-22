@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - IJKMediaFramework (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - IJKMediaFramework (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  IJKMediaFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  IJKMediaFramework: 8d9ae001f14dc41983becdbc37c85cc5ac40bad2
+
+PODFILE CHECKSUM: 1275bfa4a2f4f0610be093ca183f00d58ef51cea
+
+COCOAPODS: 1.12.1

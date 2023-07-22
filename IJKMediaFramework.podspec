@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'IJKMediaFramework'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of IJKMediaFramework.'
+  s.summary          = 'ijkplayer framework.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,9 +28,17 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/pengpeng-wang/IJKMediaFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'IJKMediaFramework/Classes/**/*'
+  # s.source_files = 'IJKMediaFramework/Classes/**/*'
+  
+  s.vendored_frameworks = 'IJKMediaFramework/Classes/IJKMediaFramework.framework'
+  
+  s.frameworks  = "AudioToolbox", "AVFoundation", "CoreGraphics", "CoreMedia", "CoreVideo", "MobileCoreServices", "OpenGLES", "QuartzCore", "VideoToolbox", "Foundation", "UIKit", "MediaPlayer"
+  s.libraries   = "bz2", "z", "c++"
+
+  s.requires_arc = true
+  s.static_framework = true
   
   # s.resource_bundles = {
   #   'IJKMediaFramework' => ['IJKMediaFramework/Assets/*.png']
