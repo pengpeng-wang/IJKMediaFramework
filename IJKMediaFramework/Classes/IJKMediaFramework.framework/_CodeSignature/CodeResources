@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/IJKMediaFramework.h</key>
 		<data>
-		BlQEuBNdS3AmYuBsawmVE5+bXDs=
+		8G/tXOyo8La9v0ZXcck/if6TMQo=
 		</data>
 		<key>Headers/IJKMediaModule.h</key>
 		<data>
@@ -52,13 +52,9 @@
 		<data>
 		XkJ4PXWgDZGwv/ac9jETJAFBlv4=
 		</data>
-		<key>Headers/JRFFmpegManager.h</key>
-		<data>
-		POMl0dNzx4J/TsPX3HYD5d9lUpI=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		APbGERns6ADPgfzWIqjP1nNHLsU=
+		YE8hng+bQKaRWn32YfuCudTMsbA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -137,11 +133,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BlQEuBNdS3AmYuBsawmVE5+bXDs=
+			8G/tXOyo8La9v0ZXcck/if6TMQo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Eej9sGe7yT4UmkYuoAtBWMzQSgZ3ZBcH4FCI8QEK1W8=
+			Ft5GT2QPjZgu3nG38TPKGZt8XIG9pCJT14Wdg3L7Z8w=
 			</data>
 		</dict>
 		<key>Headers/IJKMediaModule.h</key>
@@ -197,17 +193,6 @@
 			<key>hash2</key>
 			<data>
 			ABzjo5hGkzAZq8PJbzA+6Wm3mXvM+DU8XjKBfT8t+lU=
-			</data>
-		</dict>
-		<key>Headers/JRFFmpegManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			POMl0dNzx4J/TsPX3HYD5d9lUpI=
-			</data>
-			<key>hash2</key>
-			<data>
-			YnLhZiAfoyMxB7MorCesPVD9Ei2EkCHgs/n511+tPsM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
